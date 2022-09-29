@@ -8,3 +8,4 @@ my to-do list
 6. test git with GCM...
 7. test PAT non-cached (at command line).
 8. test whether PAT needs to be entered every push.
+9. erased PAT from keychain.
