@@ -10,3 +10,4 @@ my to-do list
 8. test whether PAT needs to be entered every push.
 9. erased PAT from keychain.
 10.testing if passcode expired.
+11.finally!
